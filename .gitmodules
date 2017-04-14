@@ -1,0 +1,3 @@
+[submodule "hiker"]
+	path = hiker
+	url = git@github.com:dogabner/hiker.git
