@@ -1,3 +1,6 @@
 [submodule "hiker"]
 	path = hiker
 	url = git@github.com:dogabner/hiker.git
+[submodule "themes/hiker"]
+	path = themes/hiker
+	url = git@github.com:dogabner/hiker.git
