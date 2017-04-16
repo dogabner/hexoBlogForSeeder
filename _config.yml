@@ -7,7 +7,7 @@ title: Seeder
 subtitle: Abner
 description: a FracGames Project
 author: Abner
-language: zh-CN
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
@@ -77,7 +77,7 @@ category_generator:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hiker
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

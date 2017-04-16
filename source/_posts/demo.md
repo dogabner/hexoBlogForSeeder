@@ -1,8 +1,12 @@
 ---
-title: demo v0.13版本
+layout: post
+title: "demo v0.13版本"
 date: 2017-04-14 08:36:21
+author: "Abner"
 categories: Seeder
-tags: [游戏玩法,Seeder]
+tags: 
+        - 游戏玩法
+        - Seeder
 ---
 
 > demo版本的下载地址：

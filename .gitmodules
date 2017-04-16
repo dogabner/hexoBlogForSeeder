@@ -1,3 +1,9 @@
 [submodule "themes/hiker"]
 	path = themes/hiker
 	url = git@github.com:dogabner/hiker.git
+[submodule "themes/anisina"]
+	path = themes/anisina
+	url = https://github.com/dogabner/hexo-theme-Anisina.git
+[submodule "themes/next"]
+	path = themes/next
+	url = https://github.com/dogabner/hexo-theme-next.git
